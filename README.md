@@ -1,0 +1,2 @@
+# Ellai
+Discord bot
